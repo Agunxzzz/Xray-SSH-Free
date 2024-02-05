@@ -2,16 +2,9 @@
 # Mina-Xray-SSH
 Mina Twice cantik bet dah 
 
-## Tested only on Ubuntu 20.04 Azure & DO<br>
-  
-  ```html
- apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
- ```
-## Installation Link Jika Sudah Punya Domain dan sudah Pointing ns domain<br>
-
-  ```html
-Coming Soon
-  ```
+for add permission ip and install can follow this link https://tmtunnel.tech/
+<br>
+signup, signin, add your ip, install
 
 
 ## Fitur:
